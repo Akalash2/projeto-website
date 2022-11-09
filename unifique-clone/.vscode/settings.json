@@ -36,7 +36,7 @@
     "dotenv": "tune"
   },
   "typescript.updateImportsOnFileMove.enabled": "never",
-  "workbench.colorTheme": "Visual Studio Light",
+  "workbench.colorTheme": "Omni",
   "material-icon-theme.files.associations": {
     "tsconfig.json": "tune",
     "*.webpack.js": "webpack",
